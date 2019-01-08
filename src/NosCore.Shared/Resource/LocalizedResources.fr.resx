@@ -142,7 +142,7 @@
     <value>Voulez-vous tout analyser ?</value>
   </data>
   <data name="PARSE_CARDS" xml:space="preserve">
-    <value>Voulez-vous analysé les Bcard ?</value>
+    <value>Voulez-vous analyser les Bcard ?</value>
   </data>
   <data name="PARSE_ITEMS" xml:space="preserve">
     <value>Voulez-vous analyser les objets ?</value>
@@ -154,7 +154,7 @@
     <value>Voulez-vous analyser les cartes ?</value>
   </data>
   <data name="PARSE_MAPTYPES" xml:space="preserve">
-    <value>Voulez-vous anlysez les types de cartes ?</value>
+    <value>Voulez-vous analysez les types de cartes ?</value>
   </data>
   <data name="PARSE_MONSTERS" xml:space="preserve">
     <value>Voulez-vous analyser les monstres ?</value>
@@ -208,10 +208,10 @@
     <value>La base de données n'est pas à jour.</value>
   </data>
   <data name="CLIENT_DISCONNECTED" xml:space="preserve">
-    <value>Client déconnecté.</value>
+    <value>Le client a été déconnecté.</value>
   </data>
   <data name="CHARACTER_NOT_INIT" xml:space="preserve">
-    <value>Personnage non chargé.</value>
+    <value>Le personnage n'a pas été chargé.</value>
   </data>
   <data name="ERROR_CHANGE_MAP" xml:space="preserve">
     <value>Erreur lors d'un passage à une map.</value>
@@ -253,13 +253,13 @@
     <value>Les monstres ont été chargés avec succès !</value>
   </data>
   <data name="ACCOUNT_ARRIVED" xml:space="preserve">
-    <value>Le compte {0} c'est connecté.</value>
+    <value>Le compte {0} s'est connecté.</value>
   </data>
   <data name="HANDLER_ERROR" xml:space="preserve">
     <value>Erreur du gestionnaire.</value>
   </data>
   <data name="HANDLER_NOT_FOUND" xml:space="preserve">
-    <value>Gestionnaire introuvable.</value>
+    <value>Le gestionnaire est introuvable.</value>
   </data>
   <data name="SELECT_MAPID" xml:space="preserve">
     <value>Veuillez séléctionner un MapID.</value>
@@ -376,7 +376,7 @@
     <value>Vous êtes déjà amis.</value>
   </data>
   <data name="ASK_TO_DELETE" xml:space="preserve">
-    <value>Voulez-vous supprimer ?</value>
+    <value>Êtes-vous sur de vouloir supprimer cet objet ?</value>
   </data>
   <data name="BAD_DROP_AMOUNT" xml:space="preserve">
     <value>Valeur d'objet incorrect.</value>
@@ -415,7 +415,7 @@
     <value>Demande d'ami rejetée.</value>
   </data>
   <data name="FRIEND_REQUEST_BLOCKED" xml:space="preserve">
-    <value>Demande d'amis bloqué.</value>
+    <value>Demande d'amis bloquée.</value>
   </data>
   <data name="ITEMS_LOADED" xml:space="preserve">
     <value>Les objets ont été chargés avec succès !</value>
@@ -433,7 +433,7 @@
     <value>Impossible de jeter l'objet ici.</value>
   </data>
   <data name="MAX_GOLD" xml:space="preserve">
-    <value>Vous avez atteint le nombre d'or maximum.</value>
+    <value>Vous avez atteint le montant maximum d'or.</value>
   </data>
   <data name="NOT_ENOUGH_PLACE" xml:space="preserve">
     <value>Vous n'avez pas assez de place.</value>
@@ -445,7 +445,7 @@
     <value>Aucun objet n'a été trouvé.</value>
   </data>
   <data name="SAVING_ALL" xml:space="preserve">
-    <value>Tout sauvegarder.</value>
+    <value>Tout a été sauvegardé.</value>
   </data>
   <data name="SP_POINTSADDED" xml:space="preserve">
     <value>Les points de spécialiste ont été ajoutés.</value>
@@ -484,7 +484,7 @@
     <value>{0} a refusé l'invitation dans le groupe.</value>
   </data>
   <data name="GROUP_SHARE_INFO" xml:space="preserve">
-    <value>Tu ne peux pas modifier les options de partages des objets. Demandes au chef du groupe !</value>
+    <value>Tu ne peux pas modifier les options de partages des objets. Demande au chef du groupe d'activer cette option !</value>
   </data>
   <data name="INVITED_YOU_GROUP" xml:space="preserve">
     <value>{0} t'a invité dans un groupe.</value>
@@ -529,7 +529,7 @@
     <value>{0} a quitté le groupe.</value>
   </data>
   <data name="NOT_YOUR_ITEM" xml:space="preserve">
-    <value>Vous ne pouvez pas récuperer cet objet. veuillez patienter un peu.</value>
+    <value>Vous ne pouvez pas récuperer cet objet. Veuillez patienter un peu.</value>
   </data>
   <data name="ERROR_DECODING" xml:space="preserve">
     <value>Erreur de décodage.</value>
@@ -544,7 +544,7 @@
     <value>Type d'objet inconnu.</value>
   </data>
   <data name="LANGUAGE_MISSING" xml:space="preserve">
-    <value>Pack de langue manquant</value>
+    <value>Pack de langue manquant.</value>
   </data>
   <data name="NO_SPECIAL_PROPERTIES_WEARABLE" xml:space="preserve">
     <value>Pas de propriété speciale sur l'équipement.</value>
@@ -568,7 +568,7 @@
     <value>Artiste Martial</value>
   </data>
   <data name="CHANNEL_WILL_EXIT" xml:space="preserve">
-    <value>Fermeture du serveur dans {0} secondes.</value>
+    <value>Fermeture du serveur d'ici {0} secondes.</value>
   </data>
   <data name="CONNECTION_LOST" xml:space="preserve">
     <value>La connection au serveur à été perdue.</value>
@@ -595,11 +595,11 @@
     <value>Vous ne pouvez pas équiper cet équipement.</value>
   </data>
   <data name="BAD_FAIRY" xml:space="preserve">
-    <value>La fée est d'un élément différent de la SPque vous tentez d'équiper.</value>
+    <value>La fée est d'un élément différent de la SP que vous souhaitez équiper.</value>
   </data>
   <data name="BUY_ITEM_FROM" xml:space="preserve">
-    <value />
-    <comment>Pas de trad anglaise/missing context</comment>
+    <value>Un nouvelle objet a été acheté par {0}</value>
+    <comment>Review it (Not sure)</comment>
   </data>
   <data name="BUY_ITEM_VALID" xml:space="preserve">
     <value>Vous avez acheté un objet.</value>
@@ -638,7 +638,7 @@
     <value>Vous n'avez pas assez de réputation !</value>
   </data>
   <data name="NO_SP" xml:space="preserve">
-    <value>Vous n'avez aucune SPéquipée.</value>
+    <value>Vous n'avez aucune SP équipée.</value>
   </data>
   <data name="PACKET_HEADER_CANNOT_EMPTY" xml:space="preserve">
     <value>Le Packet n'as pas de Header ! SerializationType: {0}.</value>
@@ -647,7 +647,8 @@
     <value>Le Packet à un format invalide.</value>
   </data>
   <data name="REMOVE_VEHICLE" xml:space="preserve">
-    <value>Veuillez quitter la locomotion pour équiper une carte SP.</value>
+    <value>Veuillez retirer votre locomotion pour équiper cette carte SP.</value>
+    <comment>Not sure for the SP Card</comment>
   </data>
   <data name="REPUTATION_CHANGED" xml:space="preserve">
     <value>Votre réputation a changée.</value>
@@ -671,7 +672,7 @@
     <value>{0} Shops parsés.</value>
   </data>
   <data name="SHOP_EMPTY" xml:space="preserve">
-    <value>Impossible d'ouvir le magasin car il est vide.</value>
+    <value>Impossible d'ouvir le magasin car celui-ci ne contient aucun objet</value>
   </data>
   <data name="SHOP_NEAR_PORTAL" xml:space="preserve">
     <value>Le magasin est trop pret du téléporteur.</value>
@@ -693,7 +694,7 @@
     <comment>Pas de trad anglaise/missing context</comment>
   </data>
   <data name="SP_BLOCKED" xml:space="preserve">
-    <value>Impossible de changer de SPcar vous en utilisez déjà une. Veuillez retirer la SP que vous portez.</value>
+    <value>Impossible d'équiper cette SP, car vous en portez déjà une, pensez a retirer la SP que vous portez.</value>
   </data>
   <data name="SP_INLOADING" xml:space="preserve">
     <value>Transformation impossible. Délais avant réutilisation : {0} secondes.</value>
@@ -714,7 +715,7 @@
     <value>L'effet secondaire de la transformation a disparru. Vous pouvez équiper une SP  à nouveau.</value>
   </data>
   <data name="USE_SP_WITHOUT_SP_ERROR" xml:space="preserve">
-    <value>Une carte SP invalide a été détéctée.</value>
+    <value>Une carte SP a crée une erreur.</value>
   </data>
   <data name="VISUALENTITY_DOES_NOT_EXIST" xml:space="preserve">
     <value>la visualentity n'existe pas.</value>
